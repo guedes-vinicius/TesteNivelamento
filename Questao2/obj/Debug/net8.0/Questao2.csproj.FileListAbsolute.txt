@@ -1,0 +1,17 @@
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\bin\Debug\net8.0\Questao2.exe
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\bin\Debug\net8.0\Questao2.deps.json
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\bin\Debug\net8.0\Questao2.runtimeconfig.json
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\bin\Debug\net8.0\Questao2.dll
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\bin\Debug\net8.0\Questao2.pdb
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.AssemblyInfo.cs
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.csproj.Up2Date
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.dll
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\refint\Questao2.dll
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.pdb
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\Questao2.genruntimeconfig.cache
+C:\Users\vcarmo\Desktop\dotnet\teste\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 6\Questao2\obj\Debug\net8.0\ref\Questao2.dll
